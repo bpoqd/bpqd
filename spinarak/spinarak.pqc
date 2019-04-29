@@ -1,0 +1,4 @@
+$body spinarak.smd
+$anim walk walk.smd
+$anim idle idle.smd
+$scale 3.0

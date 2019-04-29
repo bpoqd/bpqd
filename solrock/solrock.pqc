@@ -1,0 +1,4 @@
+$body solrock.smd
+$anim walk idle.smd
+$anim idle idle.smd
+$scale 3.0
