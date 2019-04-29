@@ -1,0 +1,4 @@
+$body araquanidbubble.smd
+$anim idle idlebasic.smd idlebasic.smd idlebasic.smd idlebasic.smd
+$anim walk walk.smd
+$scale 0.25
