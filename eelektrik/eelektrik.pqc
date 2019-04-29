@@ -1,0 +1,5 @@
+$body eelektrik.smd
+$anim idle idle.smd
+$anim walk swim.smd
+$anim swim swim.smd
+$scale 1.0
