@@ -1,0 +1,7 @@
+$body base.smd
+$anim bounceOpen bounceopen.smd
+$anim bounceClose bounceclose.smd
+$anim shakeLeft shakeleft.smd
+$anim shakeRight shakeright.smd
+$anim idle idle.smd
+$anim break break.smd

@@ -1,0 +1,6 @@
+$body MasterBall.smd
+$anim bounceOpen bounceOpen.smd
+$anim bounceClose bounceClose.smd
+$anim shakeLeft shakeLeft.smd
+$anim shakeRight shakeRight.smd
+$anim idle idle.smd
