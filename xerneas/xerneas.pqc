@@ -1,0 +1,4 @@
+$body xerneas.smd
+$anim idle idle.smd
+$anim walk walk.smd
+$scale 5.2

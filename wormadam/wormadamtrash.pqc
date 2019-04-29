@@ -1,0 +1,4 @@
+$body wormadamTrash.smd
+$anim idle trashIdle.smd
+$anim fly trashWalk.smd
+$scale 2.2

@@ -1,0 +1,4 @@
+$body wormadamSandy.smd
+$anim idle sandyIdle.smd
+$anim fly sandyWalk.smd
+$scale 2.2

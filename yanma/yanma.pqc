@@ -1,0 +1,5 @@
+$body yanma.smd
+$anim idle idle.smd
+$anim walk idle.smd
+$anim fly idle.smd
+$scale 1.22
