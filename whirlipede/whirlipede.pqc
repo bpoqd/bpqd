@@ -1,0 +1,4 @@
+$body whirlipede.smd
+$anim idle idle.smd
+$anim walk walk.smd
+$scale 2.0

@@ -1,0 +1,5 @@
+$body victini.smd
+$anim walk walk_fly.smd
+$anim fly walk_fly.smd
+$anim idle idle.smd
+$scale 1.5
