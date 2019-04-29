@@ -1,0 +1,5 @@
+$body vikavolt.smd
+$anim walk walk.smd
+$anim fly walk.smd
+$anim idle idle.smd
+$scale 0.35

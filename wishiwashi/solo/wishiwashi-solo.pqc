@@ -1,0 +1,6 @@
+$body wishiwashi-solo.smd
+$anim walk swim.smd
+$anim swim swim.smd
+$anim idle idle.smd
+$scale 0.32
+

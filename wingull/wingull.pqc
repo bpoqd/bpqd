@@ -1,0 +1,5 @@
+$body wingull.smd
+$anim idle idle.smd
+$anim walk walk.smd
+$anim fly fly.smd
+$scale 4.5
