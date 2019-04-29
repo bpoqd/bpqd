@@ -1,0 +1,4 @@
+$body ho-oh.smd
+$anim flying flying.smd
+$anim idle flying.smd
+$scale 1.0

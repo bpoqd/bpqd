@@ -1,0 +1,5 @@
+$body hoothoot.smd
+$anim walk walk.smd
+$anim fly fly.smd
+$anim idle idle.smd
+$scale 3.8
