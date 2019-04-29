@@ -1,0 +1,4 @@
+$body starly.smd
+$anim fly fly.smd
+$anim idle fly.smd
+$scale 0.9

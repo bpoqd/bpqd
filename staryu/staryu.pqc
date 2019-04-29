@@ -1,0 +1,5 @@
+$body staryu.smd
+$anim idle idle.smd
+$anim walk walk.smd
+$anim swim walk.smd
+$scale 0.2
