@@ -1,0 +1,4 @@
+$body kyogre.smd
+$anim swim swim.smd
+$anim idle idle.smd
+$scale 5.53

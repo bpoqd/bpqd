@@ -1,0 +1,4 @@
+$body landorus.smd
+$anim fly walk.smd
+$anim idle idle.smd
+$scale 0.3
