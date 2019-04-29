@@ -1,0 +1,4 @@
+$body slowbro.smd
+$anim walk walk.smd
+$anim idle idle.smd
+$scale 3.6
