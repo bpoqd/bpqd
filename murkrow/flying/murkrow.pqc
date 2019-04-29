@@ -1,0 +1,4 @@
+$body murkrow.smd
+$anim fly fly.smd
+$anim idle fly.smd
+$scale 0.25

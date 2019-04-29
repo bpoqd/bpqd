@@ -1,0 +1,4 @@
+$body moltres.smd	
+$anim fly fly.smd
+$anim idle fly.smd
+$scale 6.0
