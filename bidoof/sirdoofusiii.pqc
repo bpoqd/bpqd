@@ -1,0 +1,4 @@
+$body sirdoofusiii.smd
+$anim walk sirdoofusiiiwalk.smd
+$anim idle sirdoofusiiiidle.smd
+$scale 2.8
