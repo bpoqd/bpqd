@@ -1,0 +1,4 @@
+$body ribombee.smd
+$anim idle idle.smd
+$anim walk idle.smd
+$scale 0.23

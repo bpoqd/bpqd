@@ -1,0 +1,4 @@
+$body remoraid.smd
+$anim swim swim.smd
+$anim idle idle.smd
+$scale 1.0
