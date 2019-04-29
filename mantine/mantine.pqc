@@ -1,0 +1,4 @@
+$body mantine.smd
+$anim swim swim.smd
+$anim idle idle.smd
+$scale 4.0
