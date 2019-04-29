@@ -1,0 +1,23 @@
+{
+    "display": {
+        "icon": {
+            "item": "pixelmon:pc"
+        },
+        "title": {
+            "translate": "advancements.pokedex.title"
+        },
+        "description": {
+            "translate": "advancements.pokedex.description"
+        },
+        "background": "pixelmon:textures/gui/advancements/backgrounds/ruinswall.png",
+        "hidden": false
+    },
+    "criteria": {
+        "pokedex_base": {
+            "trigger": "pixelmon:pokedex_trigger",
+            "conditions" : {
+                "percent" : 0.1
+            }
+        }
+    }
+}
