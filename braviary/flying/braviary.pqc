@@ -1,0 +1,4 @@
+$body braviary.smd
+$anim fly fly.smd
+$anim idle fly.smd
+$scale 2.5
