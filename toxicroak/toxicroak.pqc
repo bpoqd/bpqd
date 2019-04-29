@@ -1,0 +1,4 @@
+$body toxicroak.smd
+$anim walk walk.smd
+$anim idle idle.smd
+$scale 10.0

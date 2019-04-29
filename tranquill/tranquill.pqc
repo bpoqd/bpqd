@@ -1,0 +1,5 @@
+$body tranquill.smd
+$anim idle idle.smd
+$anim walk walk.smd
+$anim fly fly.smd
+$scale 0.18

@@ -1,0 +1,5 @@
+$body togekiss.smd
+$anim idle idle.smd
+$anim fly fly.smd
+$anim walk fly.smd
+$scale 2.4

@@ -1,0 +1,4 @@
+$body toxapex.smd
+$anim walk walk.smd
+$anim idle idle.smd
+$scale 4.3
