@@ -1,0 +1,23 @@
+{
+	"display": {
+		"icon": {
+			"item": "pixelmon:shiny_stone"
+		},
+		"title": {
+			"translate": "advancements.shiny_spec.title"
+		},
+		"description": {
+			"translate": "advancements.shiny_spec.description"
+		},
+		"background": "pixelmon:textures/gui/advancements/backgrounds/ruinswall.png",
+		"hidden": false
+	},
+	"criteria": {
+		"shiny_spec_trigger": {
+			"trigger": "pixelmon:spec_trigger",
+			"conditions" : {
+				"spec" : "s"
+			}
+		}
+	}
+}
