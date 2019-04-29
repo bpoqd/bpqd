@@ -1,0 +1,5 @@
+$body megacharizardx.smd	
+$anim idle idle.smd
+$anim fly fly.smd
+$anim walk walk.smd
+$scale 5.9

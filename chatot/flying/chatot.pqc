@@ -1,0 +1,4 @@
+$body chatot.smd
+$anim fly fly.smd
+$anim idle fly.smd
+$scale 7.0

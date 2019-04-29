@@ -1,0 +1,4 @@
+$body charizard.smd	
+$anim fly fly.smd
+$anim idle fly.smd
+$scale 5.0
