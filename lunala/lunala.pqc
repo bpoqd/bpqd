@@ -1,0 +1,5 @@
+$body lunala.smd
+$anim idle idle.smd
+$anim walk walk.smd
+$anim fly walk.smd
+$scale 6.0
