@@ -1,0 +1,5 @@
+$body dialga.smd
+$anim walk walk.smd
+$anim fly fly.smd
+$anim idle idle.smd
+$scale 5.5
