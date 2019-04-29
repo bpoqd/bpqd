@@ -1,0 +1,4 @@
+$body beedrill.smd
+$anim idle idle.smd
+$anim fly fly.smd
+$scale 4

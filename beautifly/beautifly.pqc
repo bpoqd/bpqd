@@ -1,0 +1,4 @@
+$body beautifly.smd
+$anim walk walk.smd
+$anim idle idle.smd
+$scale 1.7
