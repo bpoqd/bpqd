@@ -1,0 +1,6 @@
+$body naganadel.smd
+$anim walk walk.smd
+$anim roar roar.smd
+$anim idle idlebasic.smd idlebasic.smd idlebasic.smd roar.smd idlebasic.smd
+$anim fly fly.smd
+$scale 0.25

@@ -1,0 +1,6 @@
+$body nihilego.smd
+$anim idle idlebasic.smd idlebasic.smd idlebasic.smd idlebasic.smd pirouette.smd idlebasic.smd idlebasic.smd idlebasic.smd
+$anim pirouette pirouette.smd
+$anim walk walk.smd
+$anim swim swim.smd
+$scale 0.45
