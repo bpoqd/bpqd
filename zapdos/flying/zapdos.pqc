@@ -1,0 +1,4 @@
+$body zapdos.smd	
+$anim fly fly.smd
+$anim idle fly.smd
+$scale 1.85
