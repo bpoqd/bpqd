@@ -1,0 +1,6 @@
+$body lycanroc-dusk.smd
+$anim walk walk.smd
+$anim howl howl.smd
+$anim headshake headshake.smd
+$anim idle idlebasic.smd idlebasic.smd headshake.smd idlebasic.smd idlebasic.smd idlebasic.smd idlebasic.smd howl.smd
+$scale 0.2

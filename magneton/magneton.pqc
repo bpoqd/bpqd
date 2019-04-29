@@ -1,0 +1,3 @@
+$body magneton.smd
+$anim idle idle.smd
+$anim fly idle.smd

@@ -1,0 +1,6 @@
+$body magearna.smd
+$anim idle idlebasic.smd idlebasic.smd idlebasic.smd idlebasic.smd idlebasic.smd idlebasic.smd idlebasic.smd idlebasic.smd idlebasic.smd idlebasic.smd cheeky.smd idlebasic.smd idlebasic.smd idlebasic.smd idlebasic.smd idlebasic.smd idlebasic.smd  idlebasic.smd idlebasic.smd idlebasic.smd idlebasic.smd idlebasic.smd idlebasic.smd idlebasic.smd idlebasic.smd idlebasic.smd idlebasic.smd idlebasic.smd dance.smd idlebasic.smd idlebasic.smd
+$anim cheeky cheeky.smd
+$anim dance dance.smd
+$anim walk walk.smd
+$scale 0.25

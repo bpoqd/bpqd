@@ -1,0 +1,5 @@
+$body lycanroc-midday.smd
+$anim walk walk.smd
+$anim howl howl.smd
+$anim idle idlebasic.smd idlebasic.smd idlebasic.smd idlebasic.smd idlebasic.smd howl.smd
+$scale 0.2
