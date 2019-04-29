@@ -1,0 +1,4 @@
+$body golem-alolan.smd
+$anim walk walk.smd
+$anim idle idle.smd
+$scale 0.1
