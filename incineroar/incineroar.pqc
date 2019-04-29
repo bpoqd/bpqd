@@ -1,0 +1,4 @@
+$body incineroar.smd
+$anim idle idle.smd
+$anim walk walk.smd
+$scale 1.0
