@@ -1,0 +1,4 @@
+$body tynamo.smd
+$anim idle idle.smd
+$anim walk idle.smd
+$scale 1.0
