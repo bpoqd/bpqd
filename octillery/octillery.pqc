@@ -1,0 +1,5 @@
+$body octillery.smd
+$anim walk walk.smd
+$anim swim swim.smd
+$anim idle idle.smd
+$scale 2.8
