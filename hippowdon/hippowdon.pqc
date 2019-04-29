@@ -1,0 +1,4 @@
+$body hippowdon.smd
+$anim walk walk.smd
+$anim idle idle.smd
+$scale 10.5

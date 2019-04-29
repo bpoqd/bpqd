@@ -1,0 +1,4 @@
+$body hitmonchan.smd
+$anim idle idle.smd
+$anim walk walk.smd
+$scale 3.8

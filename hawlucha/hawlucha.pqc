@@ -1,0 +1,5 @@
+$body hawlucha.smd	
+$anim idle idle.smd
+$anim walk walk.smd
+$fly fly.smd
+$scale 0.21
