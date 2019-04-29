@@ -1,0 +1,5 @@
+$body dratini.smd
+$anim idle idle.smd
+$anim walk walk.smd
+$anim swim swim.smd
+$scale 1.8
