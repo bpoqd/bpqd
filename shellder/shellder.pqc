@@ -1,0 +1,5 @@
+$body shellder.smd
+$anim idle idle.smd
+$anim walk walk.smd
+$anim swim swim.smd
+$scale 0.5
