@@ -1,0 +1,5 @@
+$body gyarados.smd
+$anim walk walk.smd
+$anim idle idle.smd
+$anim swim swim.smd
+$scale 3.5
