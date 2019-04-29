@@ -1,0 +1,5 @@
+$body cloyster.smd
+$anim idle idle.smd
+$anim walk walk.smd
+$anim swim swim.smd
+$scale 0.8
