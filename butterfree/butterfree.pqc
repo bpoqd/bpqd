@@ -1,0 +1,4 @@
+$body butterfree.smd
+$anim idle idle.smd
+$anim fly fly.smd
+$scale 5.0

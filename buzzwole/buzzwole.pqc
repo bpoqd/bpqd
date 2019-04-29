@@ -1,0 +1,8 @@
+$body buzzwole.smd
+$anim walk walk.smd
+$anim fly fly.smd
+$anim idle idlebasic.smd idlebasic.smd flexdouble.smd idlebasic.smd flex.smd idlebasic.smd idlebasic.smd arnold.smd 
+$anim arnold arnold.smd
+$anim flex flex.smd
+$anim flexdouble flexdouble.smd
+$scale 0.25

@@ -1,0 +1,4 @@
+$body burmyPlant.smd
+$anim idle idle.smd
+$anim fly walk.smd
+$scale 1.4
