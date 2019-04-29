@@ -1,0 +1,5 @@
+$body carvanha.smd
+$anim idle idle.smd
+$anim walk swim.smd
+$anim swim swim.smd
+$scale 2.5

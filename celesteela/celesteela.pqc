@@ -1,0 +1,4 @@
+$body celesteela.smd
+$anim idle idle.smd
+$anim walk walk.smd
+$scale 17.0
