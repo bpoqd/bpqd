@@ -1,0 +1,4 @@
+$body mienfoo.smd
+$anim idle idle.smd
+$anim walk walk.smd
+$scale 0.15

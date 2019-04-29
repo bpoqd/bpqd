@@ -1,0 +1,5 @@
+$body mewtwo.smd
+$anim walk walk.smd
+$anim fly fly.smd
+$anim idle idle.smd
+$scale 1.6
