@@ -1,0 +1,4 @@
+$body Q.smd
+$anim walk idle.smd
+$anim idle idle.smd
+$scale 0.5
