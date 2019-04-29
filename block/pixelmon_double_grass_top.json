@@ -1,0 +1,7 @@
+{
+	"parent": "block/tall_grass",
+	"textures": {
+		"all": "pixelmon:blocks/pixelmondoublegrass",
+		"cross": "pixelmon:blocks/pixelmondoublegrass"
+	}
+}

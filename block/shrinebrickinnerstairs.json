@@ -1,0 +1,8 @@
+{
+	"parent": "block/inner_stairs",
+    "textures": {
+        "bottom": "pixelmon:blocks/templebrick",
+        "top": "pixelmon:blocks/templebrick",
+        "side": "pixelmon:blocks/templebrick"
+    }
+}
