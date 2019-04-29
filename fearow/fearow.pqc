@@ -1,0 +1,5 @@
+$body fearow.smd
+$anim idle idle.smd
+$anim walk fly.smd
+$anim fly fly.smd
+$scale 3.2
