@@ -1,0 +1,5 @@
+$body aerodactyl.smd
+$anim walk walk.smd
+$anim idle idle.smd
+$anim fly fly.smd
+$scale 2.0
