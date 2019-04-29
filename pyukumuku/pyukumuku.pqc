@@ -1,0 +1,5 @@
+$body pyukumuku.smd
+$anim walk walk.smd
+$anim idle idlebasic.smd idlebasic.smd idlebasic.smd idlebasic.smd idlebasic.smd special.smd 
+$anim special special.smd
+$scale 0.7

@@ -1,0 +1,4 @@
+$body rayquaza.smd
+$anim fly fly.smd
+$anim idle idle.smd
+$scale 1.0

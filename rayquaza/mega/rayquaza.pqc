@@ -1,0 +1,6 @@
+$body rayquaza.smd
+$anim fly fly.smd
+$anim walk walk.smd
+$anim idle idlebasic.smd idlebasic.smd idlebasic.smd idlebasic.smd idlebasic.smd attack.smd 
+$anim special attack.smd
+$scale 1.3

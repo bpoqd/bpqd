@@ -1,0 +1,4 @@
+$body quagsire.smd
+$anim walk walk.smd
+$anim idle idle.smd
+$scale 4.5
