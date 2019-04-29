@@ -1,0 +1,5 @@
+$body megalatias.smd
+$anim idle idle.smd
+$anim walk walk.smd
+$anim fly walk.smd
+$scale 0.2

@@ -1,0 +1,4 @@
+$body ledyba.smd
+$anim fly fly.smd
+$anim idle fly.smd
+$scale 3.0

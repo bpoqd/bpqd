@@ -1,0 +1,5 @@
+$body latias.smd
+$anim walk walk.smd
+$anim idle idle.smd
+$anim fly fly.smd
+$scale 1.5
