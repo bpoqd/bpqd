@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " A ",
+        "ARA",
+        " T "
+    ],
+    "key": {
+        "A": {
+            "item": "pixelmon:aluminium_ingot"
+        },
+        "T": {
+            "item": "minecraft:hardened_clay"
+        },
+        "R": {
+            "item": "minecraft:redstone"
+        }
+    },
+    "result": {
+        "item": "pixelmon:fan",
+        "count": 1
+    }
+}

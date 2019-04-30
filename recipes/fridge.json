@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AAA",
+    "AIA",
+    "ARA"
+  ],
+  "key": {
+    "A": {
+      "item": "pixelmon:aluminium_ingot"
+    },
+    "I": {
+      "item": "minecraft:ice"
+    },
+    "R": {
+      "item": "minecraft:redstone"
+    }
+  },
+  "result": {
+    "item": "pixelmon:fridge",
+    "count": 1
+  }
+}
