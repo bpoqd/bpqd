@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "M M",
+    "MMM",
+    "MMM"
+  ],
+  "key": {
+    "M": {
+      "item": "pixelmon:aluminium_ingot"
+    }
+  },
+  "result": {
+    "item": "pixelmon:aluminium_chestplate",
+    "count": 1
+  }
+}
